@@ -1,4 +1,4 @@
-public class HelloWorld{
+class HelloWorld {
     public static void name() {
         System.out.print("helloworld");
     }
